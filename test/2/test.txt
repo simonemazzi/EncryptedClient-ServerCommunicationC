@@ -1,0 +1,3 @@
+questo è il secondo test, se riuscirai a leggerlo significa che hai sviluppato una buona applicazione
+client server
+Questo test sarà molto importante perché il  testo da cifrare e decifrare è molto lungo

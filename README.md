@@ -58,8 +58,8 @@ The project is divided into three main C files:
 
 1.  Clone the repository:
     ```sh
-    git clone [https://github.com/YOUR_USERNAME/REPOSITORY_NAME.git](https://github.com/YOUR_USERNAME/REPOSITORY_NAME.git)
-    cd REPOSITORY_NAME
+    git clone https://github.com/simonemazzi/EncryptedClient-ServerCommunicationC.git
+    cd EncryptedClient-ServerCommunicationC
     ```
 2.  Compile the Server and Client (must link the pthread library):
     ```sh
